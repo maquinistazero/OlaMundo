@@ -2,3 +2,5 @@
  Primeiro repositório do curso de Git e Git Hub com o Guanabara.
 
 É a segunda vez que dou prosseguimento a este curso. :'(
+
+ESTA LINHA FOI ADICIONADA DIRETAMENTE DO SITE!
